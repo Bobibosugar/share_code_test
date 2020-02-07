@@ -7,6 +7,8 @@
 #include "g_obj.h"
 #include "g_bell.h"
 
+//change1
+
 
 float szoom = 1;
 float sx = 0, sy = 0;
